@@ -98,3 +98,7 @@ i {
 .text {
     cursor: pointer;
 }
+
+h2 {
+    margin: 20px;
+}

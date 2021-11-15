@@ -17,7 +17,8 @@ Bonus:
 
 const app = new Vue ({
     el: `#app`, 
-    data: {
+    data : {
+
         todos : [
             {
                 text: `Comprare l'acqua  frizzante`,
@@ -70,4 +71,4 @@ const app = new Vue ({
             }
         },
     }
-})
+});
